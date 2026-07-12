@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+
+<html lang="pt">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Cayanga Digital Solutions</title>
+
+<link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+<header>
+
+<nav>
+
+<h2>Cayanga Digital Solutions</h2>
+
+</nav>
+
+<section class="hero">
+
+<h1>Transformando ideias em soluções digitais inteligentes</h1>
+
+<p>
+
+Desenvolvemos websites, aplicações e plataformas tecnológicas
+
+para empresas e instituições.
+
+</p>
+
+<a href="#contacto">Solicitar Orçamento</a>
+
+</section>
+
+</header>
+
+<section>
+
+<h2>Sobre Nós</h2>
+
+<p>
+
+A Cayanga Digital Solutions é uma empresa de tecnologia focada
+
+no desenvolvimento de soluções digitais modernas, inovação e
+
+transformação digital.
+
+</p>
+
+</section>
+
+<section>
+
+<h2>Serviços</h2>
+
+<div class="cards">
+
+<div>
+
+<h3>Websites Profissionais</h3>
+
+<p>Criamos websites rápidos, seguros e adaptados para todos os dispositivos.</p>
+
+</div>
+
+<div>
+
+<h3>Aplicações Digitais</h3>
+
+<p>Desenvolvemos plataformas web e aplicações personalizadas.</p>
+
+</div>
+
+<div>
+
+<h3>Consultoria Tecnológica</h3>
+
+<p>Ajudamos empresas a modernizar os seus processos.</p>
+
+</div>
+
+</div>
+
+</section>
+
+<section>
+
+<h2>Projetos</h2>
+
+<div class="cards">
+
+<div>
+
+<h3>Participa+</h3>
+
+<p>
+
+Plataforma digital de participação cidadã e ligação entre cidadãos e instituições.
+
+</p>
+
+</div>
+
+<div>
+
+<h3>KUMBO NA BANDA</h3>
+
+<p>
+
+Aplicação inteligente para localização de caixas automáticas em Angola.
+
+</p>
+
+</div>
+
+<div>
+
+<h3>PORTO DIGITAL NAMIBE</h3>
+
+<p>
+
+Projeto de transformação digital para operações portuárias.
+
+</p>
+
+</div>
+
+</div>
+
+</section>
+
+<section id="contacto">
+
+<h2>Contacto</h2>
+
+<p>📞 +244 931 154 823</p>
+
+<p>📧 franciscocayanga@gmail.com</p>
+
+</section>
+
+<footer>
+
+<p>
+
+© 2026 Cayanga Digital Solutions
+
+</p>
+
+</footer>
+
+<script src="script.js"></script>
+
+</body>
+
+</html>
